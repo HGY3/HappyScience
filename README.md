@@ -2,11 +2,11 @@
 
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
 
-:writing_hand: ***keep update and continue.*** :writing_hand:
+:writing_hand: ***Happy Science Work and Life: Keep update and continue.*** :writing_hand:
 
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
 
-# My Public
+# Happy Science Work and Life
 
 ****
 Pubic data.
@@ -30,13 +30,16 @@ Pubic data.
 ## 01.01.Math
 
 # 02.Computer
-## 02.01.Math
+## 02.01.Algorithm
+
+## 02.02.AI4S
 
 # 03.Genetics
 ## 03.01.Theory
 
 # 04.Genomics
-## 04.01.Sequence
+## 04.01.Assembly
+## 04.02.Sequence
 
 
 # 05.Evolution
@@ -44,4 +47,6 @@ Pubic data.
 
 # 06.Biotech
 ## 06.01.PCR
+## 06.02.FP
+## 06.03.CRISPR-Cas9
 
